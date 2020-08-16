@@ -1,6 +1,5 @@
-#Personal-React-Webapp-2
-
-FCC/SBC-BZReact
+# FCC/BZ-React
+Just to learn more about the React.js Framework.
 
 
 
